@@ -1,0 +1,5442 @@
+{
+    "B13_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741167942615",
+        "judge_time": "1741167964995"
+    },
+    "B4_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741167965500",
+        "judge_time": "1741167976656"
+    },
+    "B11_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741167977161",
+        "judge_time": "1741167985130"
+    },
+    "B000_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "3",
+        "print_time": "1741167985635",
+        "judge_time": "1741167993176"
+    },
+    "B0_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741167993683",
+        "judge_time": "1741168002035"
+    },
+    "B7_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741168002542",
+        "judge_time": "1741168019529"
+    },
+    "B2_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741168020032",
+        "judge_time": "1741168034164"
+    },
+    "B6_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741168034671",
+        "judge_time": "1741168051250"
+    },
+    "B12_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "5",
+        "print_time": "1741168051756",
+        "judge_time": "1741168064875"
+    },
+    "B1_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741168065381",
+        "judge_time": "1741168080159"
+    },
+    "B10_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "5",
+        "print_time": "1741168080662",
+        "judge_time": "1741168087007"
+    },
+    "B5_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741168087511",
+        "judge_time": "1741168101148"
+    },
+    "B00_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741168101653",
+        "judge_time": "1741168107195"
+    },
+    "B8_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741168107701",
+        "judge_time": "1741168115604"
+    },
+    "B9_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "5",
+        "print_time": "1741168116108",
+        "judge_time": "1741168126074"
+    },
+    "B3_1741168144": {
+        "id_person": "1741168144",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741168126580",
+        "judge_time": "1741168136429"
+    },
+    "C7_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "7",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741168573902",
+        "judge_time": "1741169895534"
+    },
+    "C5_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "5",
+        "id_list": "C",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741169896038",
+        "judge_time": "1741169924947"
+    },
+    "C6_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "6",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741169925453",
+        "judge_time": "1741169943070"
+    },
+    "C3_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "3",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741169943575",
+        "judge_time": "1741170030552"
+    },
+    "C4_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "4",
+        "id_list": "C",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741170031069",
+        "judge_time": "1741170056770"
+    },
+    "C000_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "000",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741170057274",
+        "judge_time": "1741170064870"
+    },
+    "C16_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "16",
+        "id_list": "C",
+        "adjective": "умная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741170065374",
+        "judge_time": "1741170078416"
+    },
+    "C17_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "17",
+        "id_list": "C",
+        "adjective": "трусливая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741170078918",
+        "judge_time": "1741170086322"
+    },
+    "C19_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "19",
+        "id_list": "C",
+        "adjective": "низкая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741170086824",
+        "judge_time": "1741170104512"
+    },
+    "C18_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "18",
+        "id_list": "C",
+        "adjective": "лёгкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741170105015",
+        "judge_time": "1741170117943"
+    },
+    "C2_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "2",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741170118447",
+        "judge_time": "1741170128091"
+    },
+    "C00_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "00",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741170128595",
+        "judge_time": "1741170140350"
+    },
+    "C15_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "15",
+        "id_list": "C",
+        "adjective": "добрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741170140854",
+        "judge_time": "1741170193464"
+    },
+    "C1_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "1",
+        "id_list": "C",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741170193969",
+        "judge_time": "1741170198209"
+    },
+    "C0_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "0",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741170198711",
+        "judge_time": "1741170212640"
+    },
+    "C14_1741170220": {
+        "id_person": "1741170220",
+        "id_item": "14",
+        "id_list": "C",
+        "adjective": "быстрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741170213142",
+        "judge_time": "1741170221280"
+    },
+    "D0_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "0",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741172139938",
+        "judge_time": "1741172148337"
+    },
+    "D16_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "16",
+        "id_list": "D",
+        "adjective": "тупая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741172148853",
+        "judge_time": "1741172162531"
+    },
+    "D00_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "00",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741172163045",
+        "judge_time": "1741172169337"
+    },
+    "D000_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "000",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741172169853",
+        "judge_time": "1741172176126"
+    },
+    "D6_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "6",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741172176639",
+        "judge_time": "1741172189590"
+    },
+    "D3_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "3",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741172190104",
+        "judge_time": "1741172198110"
+    },
+    "D1_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "1",
+        "id_list": "D",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741172198624",
+        "judge_time": "1741172202154"
+    },
+    "D5_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "5",
+        "id_list": "D",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741172202666",
+        "judge_time": "1741172219230"
+    },
+    "D7_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "7",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741172219743",
+        "judge_time": "1741172231812"
+    },
+    "D2_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "2",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741172232325",
+        "judge_time": "1741172237471"
+    },
+    "D15_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "15",
+        "id_list": "D",
+        "adjective": "злая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741172237981",
+        "judge_time": "1741172249003"
+    },
+    "D18_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "18",
+        "id_list": "D",
+        "adjective": "тяжёлая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741172249519",
+        "judge_time": "1741172263939"
+    },
+    "D14_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "14",
+        "id_list": "D",
+        "adjective": "медленная",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741172264450",
+        "judge_time": "1741172278775"
+    },
+    "D4_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "4",
+        "id_list": "D",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741172279286",
+        "judge_time": "1741172289824"
+    },
+    "D19_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "19",
+        "id_list": "D",
+        "adjective": "высокая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741172290337",
+        "judge_time": "1741172298576"
+    },
+    "D17_1741172307": {
+        "id_person": "1741172307",
+        "id_item": "17",
+        "id_list": "D",
+        "adjective": "храбрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741172299087",
+        "judge_time": "1741172307541"
+    },
+    "A9_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741173719183",
+        "judge_time": "1741173729861"
+    },
+    "A7_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741173730366",
+        "judge_time": "1741173738580"
+    },
+    "A6_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741173739088",
+        "judge_time": "1741173748661"
+    },
+    "A5_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741173749170",
+        "judge_time": "1741173769800"
+    },
+    "A11_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741173770302",
+        "judge_time": "1741173774746"
+    },
+    "A3_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741173775253",
+        "judge_time": "1741173780056"
+    },
+    "A12_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741173780560",
+        "judge_time": "1741173784244"
+    },
+    "A0_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741173784750",
+        "judge_time": "1741173791164"
+    },
+    "A13_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741173791672",
+        "judge_time": "1741173794839"
+    },
+    "A2_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741173795349",
+        "judge_time": "1741173800449"
+    },
+    "A10_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741173800955",
+        "judge_time": "1741173804884"
+    },
+    "A8_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741173805387",
+        "judge_time": "1741173812074"
+    },
+    "A1_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741173812579",
+        "judge_time": "1741173816628"
+    },
+    "A000_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741173817133",
+        "judge_time": "1741173819372"
+    },
+    "A4_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741173819880",
+        "judge_time": "1741173826339"
+    },
+    "A00_1741173830": {
+        "id_person": "1741173830",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741173826845",
+        "judge_time": "1741173830247"
+    },
+    "B4_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177512216",
+        "judge_time": "1741177518068"
+    },
+    "B000_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177518583",
+        "judge_time": "1741177523451"
+    },
+    "B3_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177523960",
+        "judge_time": "1741177534164"
+    },
+    "B10_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177534672",
+        "judge_time": "1741177542007"
+    },
+    "B6_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177542517",
+        "judge_time": "1741177550101"
+    },
+    "B7_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177550613",
+        "judge_time": "1741177556853"
+    },
+    "B12_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177557359",
+        "judge_time": "1741177563167"
+    },
+    "B11_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177563672",
+        "judge_time": "1741177566634"
+    },
+    "B13_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177567141",
+        "judge_time": "1741177571981"
+    },
+    "B00_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177572490",
+        "judge_time": "1741177576781"
+    },
+    "B8_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177577295",
+        "judge_time": "1741177582429"
+    },
+    "B0_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741177582938",
+        "judge_time": "1741177590758"
+    },
+    "B5_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741177591266",
+        "judge_time": "1741177600921"
+    },
+    "B9_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741177601428",
+        "judge_time": "1741177607602"
+    },
+    "B1_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741177608108",
+        "judge_time": "1741177612451"
+    },
+    "B2_1741177618": {
+        "id_person": "1741177618",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741177612958",
+        "judge_time": "1741177619115"
+    },
+    "B3_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177494873",
+        "judge_time": "1741177505639"
+    },
+    "B10_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177506143",
+        "judge_time": "1741177517774"
+    },
+    "B12_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177518280",
+        "judge_time": "1741177522214"
+    },
+    "B11_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177522719",
+        "judge_time": "1741177525622"
+    },
+    "B7_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741177526127",
+        "judge_time": "1741177536118"
+    },
+    "B5_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177536621",
+        "judge_time": "1741177546102"
+    },
+    "B0_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741177546607",
+        "judge_time": "1741177556422"
+    },
+    "B2_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177556929",
+        "judge_time": "1741177561694"
+    },
+    "B00_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177562196",
+        "judge_time": "1741177581326"
+    },
+    "B4_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177581829",
+        "judge_time": "1741177593454"
+    },
+    "B8_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177593959",
+        "judge_time": "1741177603182"
+    },
+    "B000_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177603688",
+        "judge_time": "1741177609974"
+    },
+    "B9_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177610478",
+        "judge_time": "1741177613991"
+    },
+    "B13_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177614493",
+        "judge_time": "1741177622479"
+    },
+    "B1_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177622984",
+        "judge_time": "1741177635062"
+    },
+    "B6_1741177644": {
+        "id_person": "1741177644",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741177635567",
+        "judge_time": "1741177643718"
+    },
+    "B00_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177524031",
+        "judge_time": "1741177530435"
+    },
+    "B9_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177530946",
+        "judge_time": "1741177543016"
+    },
+    "B4_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177543523",
+        "judge_time": "1741177556867"
+    },
+    "B13_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177557380",
+        "judge_time": "1741177582288"
+    },
+    "B1_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741177582793",
+        "judge_time": "1741177597867"
+    },
+    "B5_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741177598380",
+        "judge_time": "1741177613199"
+    },
+    "B11_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177613710",
+        "judge_time": "1741177625999"
+    },
+    "B10_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177626508",
+        "judge_time": "1741177637820"
+    },
+    "B7_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177638328",
+        "judge_time": "1741177650099"
+    },
+    "B6_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177650607",
+        "judge_time": "1741177659049"
+    },
+    "B3_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177659555",
+        "judge_time": "1741177668792"
+    },
+    "B8_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177669297",
+        "judge_time": "1741177678346"
+    },
+    "B0_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741177678852",
+        "judge_time": "1741177688108"
+    },
+    "B000_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177688615",
+        "judge_time": "1741177695646"
+    },
+    "B12_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177696154",
+        "judge_time": "1741177710128"
+    },
+    "B2_1741177718": {
+        "id_person": "1741177718",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177710642",
+        "judge_time": "1741177716694"
+    },
+    "D4_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "4",
+        "id_list": "D",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177695941",
+        "judge_time": "1741177706014"
+    },
+    "D5_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "5",
+        "id_list": "D",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177706522",
+        "judge_time": "1741177712492"
+    },
+    "D0_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "0",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741177713001",
+        "judge_time": "1741177724574"
+    },
+    "D19_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "19",
+        "id_list": "D",
+        "adjective": "высокая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177725080",
+        "judge_time": "1741177731501"
+    },
+    "D18_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "18",
+        "id_list": "D",
+        "adjective": "тяжёлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177732006",
+        "judge_time": "1741177740082"
+    },
+    "D15_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "15",
+        "id_list": "D",
+        "adjective": "злая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177740588",
+        "judge_time": "1741177746444"
+    },
+    "D16_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "16",
+        "id_list": "D",
+        "adjective": "тупая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177746949",
+        "judge_time": "1741177752441"
+    },
+    "D7_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "7",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177752947",
+        "judge_time": "1741177762238"
+    },
+    "D3_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "3",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177762744",
+        "judge_time": "1741177771950"
+    },
+    "D00_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "00",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177772452",
+        "judge_time": "1741177778032"
+    },
+    "D17_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "17",
+        "id_list": "D",
+        "adjective": "храбрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177778536",
+        "judge_time": "1741177785543"
+    },
+    "D6_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "6",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177786048",
+        "judge_time": "1741177797939"
+    },
+    "D2_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "2",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177798448",
+        "judge_time": "1741177804328"
+    },
+    "D1_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "1",
+        "id_list": "D",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177804833",
+        "judge_time": "1741177806865"
+    },
+    "D000_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "000",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177807368",
+        "judge_time": "1741177810700"
+    },
+    "D14_1741177820": {
+        "id_person": "1741177820",
+        "id_item": "14",
+        "id_list": "D",
+        "adjective": "медленная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177811208",
+        "judge_time": "1741177820962"
+    },
+    "B12_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741177590850",
+        "judge_time": "1741177609392"
+    },
+    "B9_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177609907",
+        "judge_time": "1741177618583"
+    },
+    "B7_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741177619095",
+        "judge_time": "1741177630136"
+    },
+    "B2_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177630650",
+        "judge_time": "1741177639896"
+    },
+    "B000_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177640404",
+        "judge_time": "1741177643440"
+    },
+    "B10_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177643950",
+        "judge_time": "1741177649016"
+    },
+    "B6_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741177649525",
+        "judge_time": "1741177663416"
+    },
+    "B5_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177663927",
+        "judge_time": "1741177685295"
+    },
+    "B00_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177685803",
+        "judge_time": "1741177693344"
+    },
+    "B13_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741177693853",
+        "judge_time": "1741177700968"
+    },
+    "B8_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177701478",
+        "judge_time": "1741177710704"
+    },
+    "B11_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "5",
+        "print_time": "1741177711216",
+        "judge_time": "1741177718679"
+    },
+    "B0_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741177719182",
+        "judge_time": "1741177736552"
+    },
+    "B4_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177737062",
+        "judge_time": "1741177746464"
+    },
+    "B1_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741177746975",
+        "judge_time": "1741177752000"
+    },
+    "B3_1741177831": {
+        "id_person": "1741177831",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741177752508",
+        "judge_time": "1741177829776"
+    },
+    "B2_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741178011954",
+        "judge_time": "1741178019287"
+    },
+    "B5_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741178019796",
+        "judge_time": "1741178028658"
+    },
+    "B3_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741178029166",
+        "judge_time": "1741178035398"
+    },
+    "B10_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178035902",
+        "judge_time": "1741178042125"
+    },
+    "B9_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178042631",
+        "judge_time": "1741178047141"
+    },
+    "B000_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741178047646",
+        "judge_time": "1741178052129"
+    },
+    "B7_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741178052636",
+        "judge_time": "1741178059424"
+    },
+    "B0_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741178059931",
+        "judge_time": "1741178063804"
+    },
+    "B8_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178064307",
+        "judge_time": "1741178067949"
+    },
+    "B11_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178068456",
+        "judge_time": "1741178075047"
+    },
+    "B1_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741178075553",
+        "judge_time": "1741178083655"
+    },
+    "B00_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741178084159",
+        "judge_time": "1741178089431"
+    },
+    "B12_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178089938",
+        "judge_time": "1741178094274"
+    },
+    "B6_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741178094778",
+        "judge_time": "1741178103056"
+    },
+    "B13_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178103564",
+        "judge_time": "1741178106528"
+    },
+    "B4_1741178015": {
+        "id_person": "1741178015",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741178107034",
+        "judge_time": "1741178117073"
+    },
+    "C17_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "17",
+        "id_list": "C",
+        "adjective": "трусливая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177936388",
+        "judge_time": "1741177947177"
+    },
+    "C5_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "5",
+        "id_list": "C",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177947681",
+        "judge_time": "1741177967963"
+    },
+    "C19_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "19",
+        "id_list": "C",
+        "adjective": "низкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177968467",
+        "judge_time": "1741177973050"
+    },
+    "C4_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "4",
+        "id_list": "C",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177973556",
+        "judge_time": "1741177979986"
+    },
+    "C16_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "16",
+        "id_list": "C",
+        "adjective": "умная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741177980491",
+        "judge_time": "1741177994738"
+    },
+    "C000_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "000",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177995242",
+        "judge_time": "1741178001369"
+    },
+    "C1_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "1",
+        "id_list": "C",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741178001874",
+        "judge_time": "1741178007286"
+    },
+    "C14_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "14",
+        "id_list": "C",
+        "adjective": "быстрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178007790",
+        "judge_time": "1741178011830"
+    },
+    "C0_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "0",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741178012336",
+        "judge_time": "1741178023806"
+    },
+    "C00_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "00",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741178024312",
+        "judge_time": "1741178030929"
+    },
+    "C2_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "2",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741178031432",
+        "judge_time": "1741178041382"
+    },
+    "C6_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "6",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741178041885",
+        "judge_time": "1741178066366"
+    },
+    "C7_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "7",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741178066869",
+        "judge_time": "1741178074166"
+    },
+    "C18_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "18",
+        "id_list": "C",
+        "adjective": "лёгкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178074671",
+        "judge_time": "1741178081834"
+    },
+    "C15_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "15",
+        "id_list": "C",
+        "adjective": "добрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178082339",
+        "judge_time": "1741178087610"
+    },
+    "C3_1741178097": {
+        "id_person": "1741178097",
+        "id_item": "3",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741178088114",
+        "judge_time": "1741178095361"
+    },
+    "A9_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741178612164",
+        "judge_time": "1741178618829"
+    },
+    "A8_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "5",
+        "print_time": "1741178619333",
+        "judge_time": "1741178626830"
+    },
+    "A1_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741178627340",
+        "judge_time": "1741178640518"
+    },
+    "A13_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741178641021",
+        "judge_time": "1741178667077"
+    },
+    "A00_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741178667586",
+        "judge_time": "1741178675476"
+    },
+    "A4_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741178675984",
+        "judge_time": "1741178710700"
+    },
+    "A6_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741178711207",
+        "judge_time": "1741178754240"
+    },
+    "A000_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741178754749",
+        "judge_time": "1741178759056"
+    },
+    "A2_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741178759562",
+        "judge_time": "1741178764713"
+    },
+    "A7_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741178765218",
+        "judge_time": "1741178787326"
+    },
+    "A3_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741178787833",
+        "judge_time": "1741178801580"
+    },
+    "A10_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741178802086",
+        "judge_time": "1741178831000"
+    },
+    "A12_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741178831505",
+        "judge_time": "1741178838348"
+    },
+    "A11_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741178838855",
+        "judge_time": "1741178845783"
+    },
+    "A0_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741178846290",
+        "judge_time": "1741178857922"
+    },
+    "A5_1741178864": {
+        "id_person": "1741178864",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741178858427",
+        "judge_time": "1741178864586"
+    },
+    "B11_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741179360748",
+        "judge_time": "1741179374480"
+    },
+    "B00_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "4",
+        "print_time": "1741179374990",
+        "judge_time": "1741179383891"
+    },
+    "B12_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741179384398",
+        "judge_time": "1741179393040"
+    },
+    "B0_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741179393547",
+        "judge_time": "1741179398050"
+    },
+    "B6_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741179398555",
+        "judge_time": "1741179407817"
+    },
+    "B4_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741179408322",
+        "judge_time": "1741179415167"
+    },
+    "B1_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741179415683",
+        "judge_time": "1741179432165"
+    },
+    "B3_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741179432672",
+        "judge_time": "1741179437988"
+    },
+    "B8_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741179438497",
+        "judge_time": "1741179444523"
+    },
+    "B000_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741179445032",
+        "judge_time": "1741179448988"
+    },
+    "B5_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741179449498",
+        "judge_time": "1741179459543"
+    },
+    "B10_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741179460047",
+        "judge_time": "1741179468881"
+    },
+    "B7_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741179469389",
+        "judge_time": "1741179480964"
+    },
+    "B9_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741179481472",
+        "judge_time": "1741179501156"
+    },
+    "B13_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741179501665",
+        "judge_time": "1741179516832"
+    },
+    "B2_1741179411": {
+        "id_person": "1741179411",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741179517337",
+        "judge_time": "1741179530858"
+    },
+    "C17_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "17",
+        "id_list": "C",
+        "adjective": "трусливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180210564",
+        "judge_time": "1741180217294"
+    },
+    "C6_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "6",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741180217803",
+        "judge_time": "1741180227083"
+    },
+    "C3_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "3",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741180227588",
+        "judge_time": "1741180231225"
+    },
+    "C16_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "16",
+        "id_list": "C",
+        "adjective": "умная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180231732",
+        "judge_time": "1741180241458"
+    },
+    "C5_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "5",
+        "id_list": "C",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741180241966",
+        "judge_time": "1741180254032"
+    },
+    "C1_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "1",
+        "id_list": "C",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741180254538",
+        "judge_time": "1741180259053"
+    },
+    "C00_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "00",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741180259561",
+        "judge_time": "1741180264013"
+    },
+    "C4_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "4",
+        "id_list": "C",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741180264517",
+        "judge_time": "1741180274380"
+    },
+    "C15_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "15",
+        "id_list": "C",
+        "adjective": "добрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741180274887",
+        "judge_time": "1741180282757"
+    },
+    "C14_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "14",
+        "id_list": "C",
+        "adjective": "быстрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741180283261",
+        "judge_time": "1741180288687"
+    },
+    "C7_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "7",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741180289194",
+        "judge_time": "1741180295380"
+    },
+    "C0_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "0",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741180295888",
+        "judge_time": "1741180302636"
+    },
+    "C18_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "18",
+        "id_list": "C",
+        "adjective": "лёгкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180303143",
+        "judge_time": "1741180307899"
+    },
+    "C19_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "19",
+        "id_list": "C",
+        "adjective": "низкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180308403",
+        "judge_time": "1741180312802"
+    },
+    "C000_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "000",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741180313309",
+        "judge_time": "1741180317281"
+    },
+    "C2_1741180313": {
+        "id_person": "1741180313",
+        "id_item": "2",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741180317787",
+        "judge_time": "1741180321442"
+    },
+    "C00_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "00",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741180203027",
+        "judge_time": "1741180214713"
+    },
+    "C14_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "14",
+        "id_list": "C",
+        "adjective": "быстрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180215229",
+        "judge_time": "1741180231716"
+    },
+    "C000_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "000",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741180232229",
+        "judge_time": "1741180258512"
+    },
+    "C3_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "3",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741180259024",
+        "judge_time": "1741180273214"
+    },
+    "C6_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "6",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741180273727",
+        "judge_time": "1741180286072"
+    },
+    "C16_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "16",
+        "id_list": "C",
+        "adjective": "умная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180286585",
+        "judge_time": "1741180296330"
+    },
+    "C2_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "2",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741180296844",
+        "judge_time": "1741180332347"
+    },
+    "C19_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "19",
+        "id_list": "C",
+        "adjective": "низкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180332868",
+        "judge_time": "1741180410446"
+    },
+    "C15_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "15",
+        "id_list": "C",
+        "adjective": "добрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180410964",
+        "judge_time": "1741180420228"
+    },
+    "C17_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "17",
+        "id_list": "C",
+        "adjective": "трусливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180420742",
+        "judge_time": "1741180445346"
+    },
+    "C1_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "1",
+        "id_list": "C",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741180445856",
+        "judge_time": "1741180453291"
+    },
+    "C5_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "5",
+        "id_list": "C",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741180453803",
+        "judge_time": "1741180469614"
+    },
+    "C7_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "7",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741180470129",
+        "judge_time": "1741180496756"
+    },
+    "C0_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "0",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741180497269",
+        "judge_time": "1741180547844"
+    },
+    "C18_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "18",
+        "id_list": "C",
+        "adjective": "лёгкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741180548354",
+        "judge_time": "1741180559800"
+    },
+    "C4_1741180580": {
+        "id_person": "1741180580",
+        "id_item": "4",
+        "id_list": "C",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741180560313",
+        "judge_time": "1741180580032"
+    },
+    "A8_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181354208",
+        "judge_time": "1741181374359"
+    },
+    "A12_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741181374868",
+        "judge_time": "1741181406758"
+    },
+    "A6_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741181407263",
+        "judge_time": "1741181457624"
+    },
+    "A7_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741181458130",
+        "judge_time": "1741181471319"
+    },
+    "A00_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741181471828",
+        "judge_time": "1741181485245"
+    },
+    "A11_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181485754",
+        "judge_time": "1741181504849"
+    },
+    "A2_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741181505356",
+        "judge_time": "1741181517515"
+    },
+    "A5_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741181518020",
+        "judge_time": "1741181535636"
+    },
+    "A0_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741181536143",
+        "judge_time": "1741181551899"
+    },
+    "A1_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741181552407",
+        "judge_time": "1741181567413"
+    },
+    "A13_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741181567922",
+        "judge_time": "1741181581048"
+    },
+    "A4_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741181581552",
+        "judge_time": "1741181591995"
+    },
+    "A9_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741181592502",
+        "judge_time": "1741181601566"
+    },
+    "A000_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741181602074",
+        "judge_time": "1741181607370"
+    },
+    "A10_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741181607875",
+        "judge_time": "1741181616713"
+    },
+    "A3_1741181635": {
+        "id_person": "1741181635",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741181617219",
+        "judge_time": "1741181635047"
+    },
+    "B00_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741181824891",
+        "judge_time": "1741181831564"
+    },
+    "B5_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741181832069",
+        "judge_time": "1741181841801"
+    },
+    "B1_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741181842308",
+        "judge_time": "1741181848560"
+    },
+    "B000_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741181849065",
+        "judge_time": "1741181853081"
+    },
+    "B2_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741181853585",
+        "judge_time": "1741181856200"
+    },
+    "B12_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181856709",
+        "judge_time": "1741181863152"
+    },
+    "B3_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741181863659",
+        "judge_time": "1741181872368"
+    },
+    "B7_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741181872872",
+        "judge_time": "1741181880981"
+    },
+    "B9_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181881487",
+        "judge_time": "1741181889376"
+    },
+    "B11_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181889881",
+        "judge_time": "1741181893411"
+    },
+    "B0_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741181893917",
+        "judge_time": "1741181898820"
+    },
+    "B10_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181899327",
+        "judge_time": "1741181905766"
+    },
+    "B8_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181906273",
+        "judge_time": "1741181916489"
+    },
+    "B4_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741181916995",
+        "judge_time": "1741181923318"
+    },
+    "B6_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741181923822",
+        "judge_time": "1741181938992"
+    },
+    "B13_1741181947": {
+        "id_person": "1741181947",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741181939497",
+        "judge_time": "1741181948239"
+    },
+    "C4_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "4",
+        "id_list": "C",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741181861613",
+        "judge_time": "1741181871512"
+    },
+    "C14_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "14",
+        "id_list": "C",
+        "adjective": "быстрая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741181872017",
+        "judge_time": "1741181879822"
+    },
+    "C1_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "1",
+        "id_list": "C",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741181880331",
+        "judge_time": "1741181884735"
+    },
+    "C5_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "5",
+        "id_list": "C",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741181885240",
+        "judge_time": "1741181894772"
+    },
+    "C2_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "2",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741181895274",
+        "judge_time": "1741181926784"
+    },
+    "C0_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "0",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741181927287",
+        "judge_time": "1741181933728"
+    },
+    "C00_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "00",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741181934234",
+        "judge_time": "1741181942292"
+    },
+    "C6_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "6",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741181942799",
+        "judge_time": "1741181950997"
+    },
+    "C17_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "17",
+        "id_list": "C",
+        "adjective": "трусливая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741181951499",
+        "judge_time": "1741181956921"
+    },
+    "C18_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "18",
+        "id_list": "C",
+        "adjective": "лёгкая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741181957427",
+        "judge_time": "1741181963653"
+    },
+    "C000_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "000",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741181964160",
+        "judge_time": "1741181969554"
+    },
+    "C16_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "16",
+        "id_list": "C",
+        "adjective": "умная",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741181970060",
+        "judge_time": "1741181973732"
+    },
+    "C3_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "3",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741181974237",
+        "judge_time": "1741181983265"
+    },
+    "C7_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "7",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741181983773",
+        "judge_time": "1741181989967"
+    },
+    "C15_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "15",
+        "id_list": "C",
+        "adjective": "добрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741181990472",
+        "judge_time": "1741181996321"
+    },
+    "C19_1741182002": {
+        "id_person": "1741182002",
+        "id_item": "19",
+        "id_list": "C",
+        "adjective": "низкая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741181996825",
+        "judge_time": "1741182003534"
+    },
+    "A12_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741177785514",
+        "judge_time": "1741177798043"
+    },
+    "A1_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741177798552",
+        "judge_time": "1741177819527"
+    },
+    "A11_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177820035",
+        "judge_time": "1741177824992"
+    },
+    "A9_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741177825498",
+        "judge_time": "1741177836225"
+    },
+    "A7_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741177836733",
+        "judge_time": "1741177851485"
+    },
+    "A10_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741177851991",
+        "judge_time": "1741177858508"
+    },
+    "A6_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741177859018",
+        "judge_time": "1741177869211"
+    },
+    "A13_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741177869717",
+        "judge_time": "1741177878277"
+    },
+    "A000_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177878780",
+        "judge_time": "1741177884865"
+    },
+    "A5_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177885377",
+        "judge_time": "1741177907306"
+    },
+    "A00_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741177907811",
+        "judge_time": "1741177926471"
+    },
+    "A3_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177926979",
+        "judge_time": "1741177942083"
+    },
+    "A4_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741177942587",
+        "judge_time": "1741182097728"
+    },
+    "A2_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741182098237",
+        "judge_time": "1741182103909"
+    },
+    "A0_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741182104415",
+        "judge_time": "1741182109561"
+    },
+    "A8_1741182117": {
+        "id_person": "1741182117",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741182110068",
+        "judge_time": "1741182116219"
+    },
+    "A8_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741185999438",
+        "judge_time": "1741186014172"
+    },
+    "A12_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741186014682",
+        "judge_time": "1741186026932"
+    },
+    "A00_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741186027443",
+        "judge_time": "1741186034724"
+    },
+    "A11_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741186035233",
+        "judge_time": "1741186043694"
+    },
+    "A000_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741186044201",
+        "judge_time": "1741186048679"
+    },
+    "A3_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741186049187",
+        "judge_time": "1741186055727"
+    },
+    "A1_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741186056234",
+        "judge_time": "1741186060766"
+    },
+    "A13_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741186061271",
+        "judge_time": "1741186069633"
+    },
+    "A9_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741186070138",
+        "judge_time": "1741186086428"
+    },
+    "A0_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741186086936",
+        "judge_time": "1741186097671"
+    },
+    "A10_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741186098176",
+        "judge_time": "1741186111152"
+    },
+    "A2_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741186111660",
+        "judge_time": "1741186117345"
+    },
+    "A7_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741186117853",
+        "judge_time": "1741186129315"
+    },
+    "A4_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741186129822",
+        "judge_time": "1741186139986"
+    },
+    "A6_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741186140495",
+        "judge_time": "1741186158555"
+    },
+    "A5_1741186178": {
+        "id_person": "1741186178",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741186159065",
+        "judge_time": "1741186177584"
+    },
+    "B3_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741188814552",
+        "judge_time": "1741188834742"
+    },
+    "B8_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741188835287",
+        "judge_time": "1741188852384"
+    },
+    "B5_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741188852938",
+        "judge_time": "1741188882193"
+    },
+    "B2_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741188882729",
+        "judge_time": "1741188951123"
+    },
+    "B000_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741188951672",
+        "judge_time": "1741188973177"
+    },
+    "B00_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741188973721",
+        "judge_time": "1741189008592"
+    },
+    "B9_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741189009145",
+        "judge_time": "1741189023088"
+    },
+    "B0_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "3",
+        "print_time": "1741189023627",
+        "judge_time": "1741189040987"
+    },
+    "B13_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741189041527",
+        "judge_time": "1741189103003"
+    },
+    "B10_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741189103558",
+        "judge_time": "1741189115158"
+    },
+    "B1_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741189115716",
+        "judge_time": "1741189125494"
+    },
+    "B7_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741189126049",
+        "judge_time": "1741189136250"
+    },
+    "B11_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741189136788",
+        "judge_time": "1741189146363"
+    },
+    "B12_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741189146897",
+        "judge_time": "1741189163449"
+    },
+    "B6_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741189163985",
+        "judge_time": "1741189179588"
+    },
+    "B4_1741189203": {
+        "id_person": "1741189203",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741189180121",
+        "judge_time": "1741189203109"
+    },
+    "B12_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741189172042",
+        "judge_time": "1741189191321"
+    },
+    "B0_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741189191827",
+        "judge_time": "1741189230359"
+    },
+    "B00_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741189230863",
+        "judge_time": "1741189247211"
+    },
+    "B10_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741189247715",
+        "judge_time": "1741189258147"
+    },
+    "B9_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741189258654",
+        "judge_time": "1741189273034"
+    },
+    "B13_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741189273540",
+        "judge_time": "1741189286334"
+    },
+    "B7_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741189286839",
+        "judge_time": "1741189299932"
+    },
+    "B3_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741189300437",
+        "judge_time": "1741189320150"
+    },
+    "B2_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741189320654",
+        "judge_time": "1741189325618"
+    },
+    "B5_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741189326123",
+        "judge_time": "1741189342977"
+    },
+    "B000_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741189343481",
+        "judge_time": "1741189347749"
+    },
+    "B8_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741189348253",
+        "judge_time": "1741189355967"
+    },
+    "B11_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741189356472",
+        "judge_time": "1741189372590"
+    },
+    "B4_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741189373096",
+        "judge_time": "1741189385965"
+    },
+    "B1_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741189386472",
+        "judge_time": "1741189392911"
+    },
+    "B6_1741189407": {
+        "id_person": "1741189407",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741189393415",
+        "judge_time": "1741189406447"
+    },
+    "D0_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "0",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741192225760",
+        "judge_time": "1741192244564"
+    },
+    "D18_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "18",
+        "id_list": "D",
+        "adjective": "тяжёлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741192245074",
+        "judge_time": "1741192254300"
+    },
+    "D4_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "4",
+        "id_list": "D",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741192254809",
+        "judge_time": "1741192261923"
+    },
+    "D6_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "6",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741192262434",
+        "judge_time": "1741192281963"
+    },
+    "D000_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "000",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741192282472",
+        "judge_time": "1741192287248"
+    },
+    "D17_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "17",
+        "id_list": "D",
+        "adjective": "храбрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741192287755",
+        "judge_time": "1741192291164"
+    },
+    "D2_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "2",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741192291670",
+        "judge_time": "1741192295947"
+    },
+    "D16_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "16",
+        "id_list": "D",
+        "adjective": "тупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741192296455",
+        "judge_time": "1741192299252"
+    },
+    "D1_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "1",
+        "id_list": "D",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741192299760",
+        "judge_time": "1741192303453"
+    },
+    "D15_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "15",
+        "id_list": "D",
+        "adjective": "злая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741192303960",
+        "judge_time": "1741192307912"
+    },
+    "D14_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "14",
+        "id_list": "D",
+        "adjective": "медленная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741192308418",
+        "judge_time": "1741192313682"
+    },
+    "D3_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "3",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741192314189",
+        "judge_time": "1741192319018"
+    },
+    "D00_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "00",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741192319527",
+        "judge_time": "1741192325031"
+    },
+    "D5_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "5",
+        "id_list": "D",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741192325537",
+        "judge_time": "1741192331382"
+    },
+    "D19_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "19",
+        "id_list": "D",
+        "adjective": "высокая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741192331888",
+        "judge_time": "1741192334575"
+    },
+    "D7_1741192342": {
+        "id_person": "1741192342",
+        "id_item": "7",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741192335083",
+        "judge_time": "1741192341568"
+    },
+    "A9_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741197830283",
+        "judge_time": "1741197847329"
+    },
+    "A12_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741197847833",
+        "judge_time": "1741197854832"
+    },
+    "A5_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741197855341",
+        "judge_time": "1741197873191"
+    },
+    "A7_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741197873699",
+        "judge_time": "1741197891038"
+    },
+    "A6_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741197891545",
+        "judge_time": "1741197908188"
+    },
+    "A13_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741197908699",
+        "judge_time": "1741197916580"
+    },
+    "A1_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741197917085",
+        "judge_time": "1741197925843"
+    },
+    "A000_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741197926347",
+        "judge_time": "1741197932944"
+    },
+    "A8_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741197933450",
+        "judge_time": "1741197939571"
+    },
+    "A2_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741197940077",
+        "judge_time": "1741197950933"
+    },
+    "A3_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741197951442",
+        "judge_time": "1741197970821"
+    },
+    "A4_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741197971329",
+        "judge_time": "1741197989052"
+    },
+    "A0_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741197989560",
+        "judge_time": "1741197998032"
+    },
+    "A11_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741197998539",
+        "judge_time": "1741198007749"
+    },
+    "A10_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741198008255",
+        "judge_time": "1741198016297"
+    },
+    "A00_1741198024": {
+        "id_person": "1741198024",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741198016803",
+        "judge_time": "1741198024587"
+    },
+    "B10_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741206700039",
+        "judge_time": "1741206728349"
+    },
+    "B13_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741206728853",
+        "judge_time": "1741206744521"
+    },
+    "B7_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741206745025",
+        "judge_time": "1741206763785"
+    },
+    "B5_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741206764289",
+        "judge_time": "1741206779979"
+    },
+    "B00_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741206780483",
+        "judge_time": "1741206789026"
+    },
+    "B3_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741206789533",
+        "judge_time": "1741206799512"
+    },
+    "B8_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741206800018",
+        "judge_time": "1741206816681"
+    },
+    "B6_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741206817184",
+        "judge_time": "1741206843306"
+    },
+    "B11_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741206843810",
+        "judge_time": "1741206849058"
+    },
+    "B2_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741206849562",
+        "judge_time": "1741206858758"
+    },
+    "B9_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741206859263",
+        "judge_time": "1741206875830"
+    },
+    "B12_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741206876331",
+        "judge_time": "1741206883756"
+    },
+    "B000_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741206884264",
+        "judge_time": "1741206890298"
+    },
+    "B4_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741206890803",
+        "judge_time": "1741206911296"
+    },
+    "B1_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741206911801",
+        "judge_time": "1741206932398"
+    },
+    "B0_1741206941": {
+        "id_person": "1741206941",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741206932903",
+        "judge_time": "1741206941334"
+    },
+    "B13_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741206671494",
+        "judge_time": "1741206707774"
+    },
+    "B2_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741206708282",
+        "judge_time": "1741206729010"
+    },
+    "B3_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741206729517",
+        "judge_time": "1741206747669"
+    },
+    "B12_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741206748178",
+        "judge_time": "1741206760096"
+    },
+    "B1_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741206760604",
+        "judge_time": "1741206776470"
+    },
+    "B7_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741206776975",
+        "judge_time": "1741206789208"
+    },
+    "B000_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741206789715",
+        "judge_time": "1741206796581"
+    },
+    "B10_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741206797088",
+        "judge_time": "1741206804288"
+    },
+    "B8_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741206804792",
+        "judge_time": "1741206818001"
+    },
+    "B6_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741206818508",
+        "judge_time": "1741206829333"
+    },
+    "B9_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741206829839",
+        "judge_time": "1741207274610"
+    },
+    "B11_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741207275117",
+        "judge_time": "1741207288870"
+    },
+    "B4_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741207289377",
+        "judge_time": "1741207304190"
+    },
+    "B0_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741207304694",
+        "judge_time": "1741207320111"
+    },
+    "B5_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741207320619",
+        "judge_time": "1741207334355"
+    },
+    "B00_1741207383": {
+        "id_person": "1741207383",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741207334861",
+        "judge_time": "1741207342959"
+    },
+    "D18_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "18",
+        "id_list": "D",
+        "adjective": "тяжёлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741210949720",
+        "judge_time": "1741210979869"
+    },
+    "D4_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "4",
+        "id_list": "D",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741210980378",
+        "judge_time": "1741210994343"
+    },
+    "D000_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "000",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741210994853",
+        "judge_time": "1741211011550"
+    },
+    "D6_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "6",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741211012061",
+        "judge_time": "1741211027334"
+    },
+    "D00_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "00",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741211027844",
+        "judge_time": "1741211040274"
+    },
+    "D16_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "16",
+        "id_list": "D",
+        "adjective": "тупая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741211040785",
+        "judge_time": "1741211049283"
+    },
+    "D1_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "1",
+        "id_list": "D",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741211049789",
+        "judge_time": "1741211055948"
+    },
+    "D17_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "17",
+        "id_list": "D",
+        "adjective": "храбрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741211056457",
+        "judge_time": "1741211059269"
+    },
+    "D7_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "7",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741211059776",
+        "judge_time": "1741211068032"
+    },
+    "D5_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "5",
+        "id_list": "D",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741211068541",
+        "judge_time": "1741211076032"
+    },
+    "D0_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "0",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741211076541",
+        "judge_time": "1741211086746"
+    },
+    "D14_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "14",
+        "id_list": "D",
+        "adjective": "медленная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741211087255",
+        "judge_time": "1741211094873"
+    },
+    "D3_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "3",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741211095383",
+        "judge_time": "1741211105013"
+    },
+    "D2_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "2",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741211105523",
+        "judge_time": "1741211115281"
+    },
+    "D15_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "15",
+        "id_list": "D",
+        "adjective": "злая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741211115788",
+        "judge_time": "1741211125747"
+    },
+    "D19_1741211131": {
+        "id_person": "1741211131",
+        "id_item": "19",
+        "id_list": "D",
+        "adjective": "высокая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741211126257",
+        "judge_time": "1741211130559"
+    },
+    "A7_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741215301201",
+        "judge_time": "1741215308922"
+    },
+    "A2_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741215309425",
+        "judge_time": "1741215314087"
+    },
+    "A00_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741215314593",
+        "judge_time": "1741215318629"
+    },
+    "A10_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741215319133",
+        "judge_time": "1741215326059"
+    },
+    "A8_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741215326562",
+        "judge_time": "1741215330483"
+    },
+    "A11_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741215330988",
+        "judge_time": "1741215338633"
+    },
+    "A9_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741215339139",
+        "judge_time": "1741215347342"
+    },
+    "A4_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741215347845",
+        "judge_time": "1741215353072"
+    },
+    "A5_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741215353574",
+        "judge_time": "1741215365992"
+    },
+    "A6_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741215366496",
+        "judge_time": "1741215372945"
+    },
+    "A1_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741215373450",
+        "judge_time": "1741215379095"
+    },
+    "A000_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741215379597",
+        "judge_time": "1741215383610"
+    },
+    "A3_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741215384113",
+        "judge_time": "1741215387821"
+    },
+    "A0_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741215388327",
+        "judge_time": "1741215396766"
+    },
+    "A12_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741215397272",
+        "judge_time": "1741215401550"
+    },
+    "A13_1741215409": {
+        "id_person": "1741215409",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741215402057",
+        "judge_time": "1741215407783"
+    },
+    "B9_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741249695736",
+        "judge_time": "1741249702194"
+    },
+    "B10_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "1",
+        "print_time": "1741249702700",
+        "judge_time": "1741249708095"
+    },
+    "B7_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741249708602",
+        "judge_time": "1741249725048"
+    },
+    "B0_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741249725556",
+        "judge_time": "1741249732466"
+    },
+    "B5_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741249732970",
+        "judge_time": "1741249739968"
+    },
+    "B00_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741249740475",
+        "judge_time": "1741249750568"
+    },
+    "B6_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741249751073",
+        "judge_time": "1741249759616"
+    },
+    "B3_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741249760123",
+        "judge_time": "1741249768792"
+    },
+    "B12_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741249769298",
+        "judge_time": "1741249774525"
+    },
+    "B000_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741249775033",
+        "judge_time": "1741249780065"
+    },
+    "B4_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741249780568",
+        "judge_time": "1741249787360"
+    },
+    "B8_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741249787864",
+        "judge_time": "1741249796346"
+    },
+    "B2_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741249796851",
+        "judge_time": "1741249802863"
+    },
+    "B1_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741249803368",
+        "judge_time": "1741249810720"
+    },
+    "B11_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741249811224",
+        "judge_time": "1741249816095"
+    },
+    "B13_1741249825": {
+        "id_person": "1741249825",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741249816599",
+        "judge_time": "1741249823887"
+    },
+    "C6_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "6",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741435353314",
+        "judge_time": "1741435369622"
+    },
+    "C00_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "00",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741435370154",
+        "judge_time": "1741435377125"
+    },
+    "C5_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "5",
+        "id_list": "C",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741435377648",
+        "judge_time": "1741435386998"
+    },
+    "C16_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "16",
+        "id_list": "C",
+        "adjective": "умная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741435387523",
+        "judge_time": "1741435391862"
+    },
+    "C7_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "7",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741435392390",
+        "judge_time": "1741435401062"
+    },
+    "C19_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "19",
+        "id_list": "C",
+        "adjective": "низкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741435401591",
+        "judge_time": "1741435407183"
+    },
+    "C3_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "3",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741435407709",
+        "judge_time": "1741435415537"
+    },
+    "C15_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "15",
+        "id_list": "C",
+        "adjective": "добрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741435416065",
+        "judge_time": "1741435419853"
+    },
+    "C14_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "14",
+        "id_list": "C",
+        "adjective": "быстрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741435420378",
+        "judge_time": "1741435435501"
+    },
+    "C1_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "1",
+        "id_list": "C",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741435436028",
+        "judge_time": "1741435441318"
+    },
+    "C000_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "000",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741435441843",
+        "judge_time": "1741435445938"
+    },
+    "C4_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "4",
+        "id_list": "C",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741435446463",
+        "judge_time": "1741435453114"
+    },
+    "C17_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "17",
+        "id_list": "C",
+        "adjective": "трусливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741435453636",
+        "judge_time": "1741435459580"
+    },
+    "C0_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "0",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741435460104",
+        "judge_time": "1741435465655"
+    },
+    "C2_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "2",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741435466178",
+        "judge_time": "1741435470642"
+    },
+    "C18_1741435475": {
+        "id_person": "1741435475",
+        "id_item": "18",
+        "id_list": "C",
+        "adjective": "лёгкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741435471165",
+        "judge_time": "1741435476305"
+    },
+    "D18_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "18",
+        "id_list": "D",
+        "adjective": "тяжёлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741444672603",
+        "judge_time": "1741444683900"
+    },
+    "D1_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "1",
+        "id_list": "D",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741444684434",
+        "judge_time": "1741444690260"
+    },
+    "D16_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "16",
+        "id_list": "D",
+        "adjective": "тупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741444690782",
+        "judge_time": "1741444696229"
+    },
+    "D3_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "3",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741444696748",
+        "judge_time": "1741444705527"
+    },
+    "D000_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "000",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741444706056",
+        "judge_time": "1741444712995"
+    },
+    "D0_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "0",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741444713518",
+        "judge_time": "1741444723426"
+    },
+    "D5_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "5",
+        "id_list": "D",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741444723944",
+        "judge_time": "1741444737759"
+    },
+    "D17_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "17",
+        "id_list": "D",
+        "adjective": "храбрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741444738286",
+        "judge_time": "1741444749243"
+    },
+    "D14_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "14",
+        "id_list": "D",
+        "adjective": "медленная",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741444749765",
+        "judge_time": "1741444758817"
+    },
+    "D15_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "15",
+        "id_list": "D",
+        "adjective": "злая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741444759344",
+        "judge_time": "1741444767416"
+    },
+    "D4_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "4",
+        "id_list": "D",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741444767942",
+        "judge_time": "1741444790451"
+    },
+    "D2_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "2",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741444790979",
+        "judge_time": "1741444797410"
+    },
+    "D19_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "19",
+        "id_list": "D",
+        "adjective": "высокая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741444797932",
+        "judge_time": "1741444801115"
+    },
+    "D7_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "7",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741444801630",
+        "judge_time": "1741444817696"
+    },
+    "D00_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "00",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741444818214",
+        "judge_time": "1741444830163"
+    },
+    "D6_1741444837": {
+        "id_person": "1741444837",
+        "id_item": "6",
+        "id_list": "D",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741444830683",
+        "judge_time": "1741444837335"
+    },
+    "A12_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "12",
+        "id_list": "A",
+        "adjective": "красивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741449598875",
+        "judge_time": "1741449611465"
+    },
+    "A0_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "0",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741449611968",
+        "judge_time": "1741449617125"
+    },
+    "A10_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "10",
+        "id_list": "A",
+        "adjective": "щедрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741449617628",
+        "judge_time": "1741449622520"
+    },
+    "A8_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "8",
+        "id_list": "A",
+        "adjective": "грязная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741449623025",
+        "judge_time": "1741449630992"
+    },
+    "A11_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "11",
+        "id_list": "A",
+        "adjective": "светлая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741449631497",
+        "judge_time": "1741449641857"
+    },
+    "A000_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "000",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741449642360",
+        "judge_time": "1741449645505"
+    },
+    "A13_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "13",
+        "id_list": "A",
+        "adjective": "трудолюбивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741449646008",
+        "judge_time": "1741449650295"
+    },
+    "A7_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "7",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741449650797",
+        "judge_time": "1741449659666"
+    },
+    "A3_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "3",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741449660168",
+        "judge_time": "1741449669215"
+    },
+    "A9_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "9",
+        "id_list": "A",
+        "adjective": "холодная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741449669718",
+        "judge_time": "1741449680679"
+    },
+    "A6_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "6",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741449681183",
+        "judge_time": "1741449690570"
+    },
+    "A2_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "2",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741449691073",
+        "judge_time": "1741449706560"
+    },
+    "A5_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "5",
+        "id_list": "A",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741449707062",
+        "judge_time": "1741449721692"
+    },
+    "A00_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "00",
+        "id_list": "A",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741449722197",
+        "judge_time": "1741449727036"
+    },
+    "A1_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "1",
+        "id_list": "A",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741449727541",
+        "judge_time": "1741449741883"
+    },
+    "A4_1741449757": {
+        "id_person": "1741449757",
+        "id_item": "4",
+        "id_list": "A",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741449742385",
+        "judge_time": "1741449756932"
+    },
+    "B12_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "12",
+        "id_list": "B",
+        "adjective": "уродливая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741450874737",
+        "judge_time": "1741450891510"
+    },
+    "B6_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "6",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741450892013",
+        "judge_time": "1741450907766"
+    },
+    "B2_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "2",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741450908273",
+        "judge_time": "1741450917374"
+    },
+    "B5_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "5",
+        "id_list": "B",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741450917878",
+        "judge_time": "1741450930620"
+    },
+    "B0_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "0",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741450931126",
+        "judge_time": "1741450940674"
+    },
+    "B11_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "11",
+        "id_list": "B",
+        "adjective": "тёмная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741450941180",
+        "judge_time": "1741450949704"
+    },
+    "B00_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "00",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741450950209",
+        "judge_time": "1741450958517"
+    },
+    "B8_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "8",
+        "id_list": "B",
+        "adjective": "чистая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741450959023",
+        "judge_time": "1741450962966"
+    },
+    "B000_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "000",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741450963472",
+        "judge_time": "1741450968321"
+    },
+    "B4_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "4",
+        "id_list": "B",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741450968827",
+        "judge_time": "1741450980676"
+    },
+    "B3_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "3",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741450981183",
+        "judge_time": "1741450994261"
+    },
+    "B1_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "1",
+        "id_list": "B",
+        "adjective": "neg",
+        "type": "true",
+        "judgement": "1",
+        "print_time": "1741450994763",
+        "judge_time": "1741451014467"
+    },
+    "B9_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "9",
+        "id_list": "B",
+        "adjective": "горячая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741451014973",
+        "judge_time": "1741451020245"
+    },
+    "B13_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "13",
+        "id_list": "B",
+        "adjective": "ленивая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741451020748",
+        "judge_time": "1741451025148"
+    },
+    "B10_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "10",
+        "id_list": "B",
+        "adjective": "скупая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741451025653",
+        "judge_time": "1741451029850"
+    },
+    "B7_1741451050": {
+        "id_person": "1741451050",
+        "id_item": "7",
+        "id_list": "B",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "4",
+        "print_time": "1741451030352",
+        "judge_time": "1741451050452"
+    },
+    "C18_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "18",
+        "id_list": "C",
+        "adjective": "лёгкая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741466562440",
+        "judge_time": "1741466585084"
+    },
+    "C0_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "0",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "1",
+        "print_time": "1741466585592",
+        "judge_time": "1741466591900"
+    },
+    "C00_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "00",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741466592406",
+        "judge_time": "1741466597517"
+    },
+    "C19_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "19",
+        "id_list": "C",
+        "adjective": "низкая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741466598023",
+        "judge_time": "1741466615092"
+    },
+    "C15_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "15",
+        "id_list": "C",
+        "adjective": "добрая",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741466615598",
+        "judge_time": "1741466621276"
+    },
+    "C000_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "000",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "control",
+        "judgement": "5",
+        "print_time": "1741466621780",
+        "judge_time": "1741466646844"
+    },
+    "C1_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "1",
+        "id_list": "C",
+        "adjective": "pos",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741466647349",
+        "judge_time": "1741466649901"
+    },
+    "C16_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "16",
+        "id_list": "C",
+        "adjective": "умная",
+        "type": "false",
+        "judgement": "3",
+        "print_time": "1741466650407",
+        "judge_time": "1741466653836"
+    },
+    "C2_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "2",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "5",
+        "print_time": "1741466654343",
+        "judge_time": "1741466660476"
+    },
+    "C5_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "5",
+        "id_list": "C",
+        "adjective": "ind",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741466660983",
+        "judge_time": "1741466671060"
+    },
+    "C14_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "14",
+        "id_list": "C",
+        "adjective": "быстрая",
+        "type": "false",
+        "judgement": "2",
+        "print_time": "1741466671568",
+        "judge_time": "1741466677508"
+    },
+    "C7_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "7",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741466678016",
+        "judge_time": "1741466690635"
+    },
+    "C4_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "4",
+        "id_list": "C",
+        "adjective": "cf",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741466691143",
+        "judge_time": "1741466701211"
+    },
+    "C17_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "17",
+        "id_list": "C",
+        "adjective": "трусливая",
+        "type": "false",
+        "judgement": "4",
+        "print_time": "1741466701714",
+        "judge_time": "1741466715340"
+    },
+    "C6_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "6",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "2",
+        "print_time": "1741466715848",
+        "judge_time": "1741466724563"
+    },
+    "C3_1741466739": {
+        "id_person": "1741466739",
+        "id_item": "3",
+        "id_list": "C",
+        "adjective": "-",
+        "type": "true",
+        "judgement": "3",
+        "print_time": "1741466725066",
+        "judge_time": "1741466739259"
+    }
+}
